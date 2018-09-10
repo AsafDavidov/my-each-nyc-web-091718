@@ -3,5 +3,6 @@ def my_each(array) # put argument(s) here
   index = 0 
   while index < array.size
     array
+    index += 1
   end
 end
